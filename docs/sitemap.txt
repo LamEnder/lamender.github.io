@@ -1,0 +1,8 @@
+http://example.com/2022/06/11/A-forgotten-CTF-Writeup/
+http://example.com/about/index.html
+http://example.com/
+http://example.com/tags/ctf/
+http://example.com/tags/python/
+http://example.com/tags/networking/
+http://example.com/categories/Programming-and-Hacking/
+http://example.com/categories/Programming-and-Hacking/CTF/
